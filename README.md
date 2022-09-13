@@ -61,71 +61,71 @@ Congratulations to the following teams:
 
 ### 2linenodejs
 
-* Solved:
+* Solved: 13 / 584
 * Author: ginoah
-* Link:
+* Link: https://gist.github.com/ginoah/e723a1babffae01ffa5149121776648c
 
 ### Health Check 1
 
-* Solved:
+* Solved: 70 / 584
 * Author: chiffoncake
-* Link:
+* Link: https://github.com/ktpss95112/my-ctf-challenges/tree/main/2022-balsnctf/health-check
 
 ### Health Check 2
 
-* Solved:
+* Solved: 32 / 584
 * Author: chiffoncake
-* Link:
+* Link: https://github.com/ktpss95112/my-ctf-challenges/tree/main/2022-balsnctf/health-check
 
 ### my first app
 
-* Solved:
+* Solved: 263 / 584
 * Author: ysc
-* Link:
+* Link: https://gist.github.com/YSc21/b1cf72f4cc124c84f13028c1dc6f1ecd
 
 ## crypto
 
 ### Old but gold
 
-* Solved:
+* Solved: 4 / 584
 * Author: kevin47
-* Link:
+* Link: https://github.com/kevin47/CTF-writeups/tree/master/22/balsn-ctf/old_but_gold
 
 ### LFSR
 
-* Solved:
+* Solved: 6 / 584
 * Author: utaha
-* Link:
+* Link: https://github.com/utaha1228/BalsnCTF-2022
 
 ### vss
 
-* Solved:
+* Solved: 9 / 584
 * Author: utaha
-* Link:
+* Link: https://github.com/utaha1228/BalsnCTF-2022
 
 ### Yet another RSA with hint
 
-* Solved:
+* Solved: 38 / 584
 * Author: utaha
-* Link:
+* Link: https://github.com/utaha1228/BalsnCTF-2022
 
 ## reverse
 
 ### ProjectO
 
-* Solved:
+* Solved: 9 / 584
 * Author: terrynini38514
-* Link:
+* Link: http://blog.terrynini.tw/en/2022-BalsnCTF-ProjectO-Write-up/
 
 ### Keep It Rollin'
 
-* Solved:
+* Solved: 7 / 584
 * Author: paulhuang
-* Link:
+* Link: https://gist.github.com/paulhuangkm/cdd24bb7ab46186ec2cbd58414273b23
 
 ### Propaganda
 
-* Solved:
+* Solved: 29 / 584
 * Author: frank lin
 * Link:
 
@@ -133,31 +133,37 @@ Congratulations to the following teams:
 
 ### Asian Parents
 
-* Solved:
+* Solved: 8 / 584
 * Author: paulhuang
 * Link:
 
 ### Flag Market 1
 
-* Solved:
+* Solved: 43 / 584
 * Author: how2hack
-* Link:
+* Link: https://github.com/how2hack/my-ctf-challenges/blob/master/2022/balsnctf-2022/flag_market/README_part1.md
 
 ### Flag Market 3
 
-* Solved:
+* Solved: 0 / 584
 * Author: how2hack
-* Link:
+* Link: https://github.com/how2hack/my-ctf-challenges/blob/master/2022/balsnctf-2022/flag_market/README_part3.md
 
 ### Want my signature?
 
-* Solved:
+* Solved: 0 / 584
 * Author: kevin47
-* Link:
+* Link: https://github.com/kevin47/CTF-writeups/tree/master/22/balsn-ctf/want_my_signature
 
 ### Sentinel
 
-* Solved:
+* Solved: 8 / 584
+* Author: jwang
+* Link:
+
+### Sentinel Revenge
+
+* Solved: 5 / 584
 * Author: jwang
 * Link:
 
@@ -165,18 +171,18 @@ Congratulations to the following teams:
 
 ### NFT Marketplace
 
-* Solved:
+* Solved: 10 / 584
 * Author: ysc
-* Link:
+* Link: https://gist.github.com/YSc21/b1cf72f4cc124c84f13028c1dc6f1ecd
 
 ### Flag Market 2
 
-* Solved:
+* Solved: 35 / 584
 * Author: how2hack
-* Link:
+* Link: https://github.com/how2hack/my-ctf-challenges/blob/master/2022/balsnctf-2022/flag_market/README_part2.md
 
 ### Cairo Reverse
 
-* Solved:
+* Solved: 41 / 584
 * Author: ysc
-* Link:
+* Link: https://gist.github.com/YSc21/b1cf72f4cc124c84f13028c1dc6f1ecd
